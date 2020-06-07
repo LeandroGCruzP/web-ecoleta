@@ -1,5 +1,5 @@
 ﻿# Ecoleta - Semana Next Level Week 1 (NLW)
- ![imagem Ecoleta](https://github.com/LeandroGCruzP/Ecoleta/blob/master/public/assets/logo.svg)
+ ![imagem Ecoleta](https://github.com/LeandroGCruzP/Ecoleta/blob/master/public/assets/logo.svg =70x100)
  --------------------------------------------------------------------------------------------------------------------------
 ### IDIOMA: Português
 ![Bandeira do Brasil](https://github.com/LeandroGCruzP/Ecoleta/blob/master/brasil.png)
@@ -27,7 +27,7 @@
 #### Node, nodemon
 --------------------------------------------------------------------------------------------------------------------------
 ### IDIOMA: Español
-![Bandera de Chile](https://github.com/LeandroGCruzP/Ecoleta/blob/master/chile.jpg)
+![Bandera de Chile](https://github.com/LeandroGCruzP/Ecoleta/blob/master/chile.jpg =70x100)
 ## Otro proyecto de RocketSeat (Brasil)
 
 ### Descripción de descarga y inicialización
