@@ -1,4 +1,5 @@
-﻿# Ecoleta - Semana Next Level Week 1 (NLW)
+﻿<center>Ecoleta - Semana Next Level Week 1 (NLW)</center>
+ 
  ![imagem Ecoleta](https://github.com/LeandroGCruzP/Ecoleta/blob/master/public/assets/logo.svg)
  --------------------------------------------------------------------------------------------------------------------------
 ### IDIOMA: Português
