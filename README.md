@@ -27,7 +27,7 @@
 #### Node, nodemon
 --------------------------------------------------------------------------------------------------------------------------
 ### IDIOMA: Español
-<img src="(https://github.com/LeandroGCruzP/Ecoleta/blob/master/chile.jpg" alt="Bandera de Chile" width="100" height="70" />
+<img src="chile.jpg" alt="Bandera de Chile" width="100" height="70" />
 ## Otro proyecto de RocketSeat (Brasil)
 
 ### Descripción de descarga y inicialización
