@@ -1,0 +1,27 @@
+{
+  "name": "nextlevelweek1",
+  "version": "1.0.0",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeandroGCruzP/E-coleta.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeandroGCruzP/E-coleta/issues"
+  },
+  "homepage": "https://github.com/LeandroGCruzP/E-coleta#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.1",
+    "sqlite3": "^4.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
