@@ -2,7 +2,8 @@
  ![imagem Ecoleta](https://github.com/LeandroGCruzP/Ecoleta/blob/master/public/assets/logo.svg)
  --------------------------------------------------------------------------------------------------------------------------
 ### IDIOMA: Português
-![Bandeira do Brasil](https://github.com/LeandroGCruzP/Ecoleta/blob/master/brasil.png)
+<img src="brasil.png" alt="Bandera de Chile" width="200" height="150" />
+
 ## Mais um projeto da RocketSeat
 
 ### Descrição de dowload e inicialização
@@ -27,7 +28,8 @@
 #### Node, nodemon
 --------------------------------------------------------------------------------------------------------------------------
 ### IDIOMA: Español
-<img src="chile.jpg" alt="Bandera de Chile" width="100" height="70" />
+<img src="chile.jpg" alt="Bandera de Chile" width="200" height="150" />
+
 ## Otro proyecto de RocketSeat (Brasil)
 
 ### Descripción de descarga y inicialización
