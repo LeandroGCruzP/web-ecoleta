@@ -1,5 +1,4 @@
-﻿<h1 style="align: center">Ecoleta - Semana Next Level Week 1 (NLW)</h1>
- 
+#                                        Ecoleta - Semana Next Level Week 1 (NLW)
  ![imagem Ecoleta](https://github.com/LeandroGCruzP/Ecoleta/blob/master/public/assets/logo.svg)
  --------------------------------------------------------------------------------------------------------------------------
 ### IDIOMA: Português
