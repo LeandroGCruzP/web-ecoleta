@@ -26,6 +26,9 @@
 #### CSS, HTML, JavaScript
 #### Nunjucks, SQLite3, Express
 #### Node, nodemon
+
+### Qualquer consulta fala comigo a través de: leandro.programmer@hotmail.com 
+### o por Discord: Leandro Cruz#3831
 --------------------------------------------------------------------------------------------------------------------------
 ### IDIOMA: Español
 <img src="chile.jpg" alt="Bandera de Chile" width="200" height="125" />
@@ -53,3 +56,5 @@
 #### Nunjucks, SQLite3, Express
 #### Node, nodemon
 
+### Si tienes alguna duda habla conmigo por el correo: leandro.programmer@hotmail.com
+### o por Discord: Leandro Cruz#3831 
